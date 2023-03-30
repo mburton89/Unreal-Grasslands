@@ -1,0 +1,6 @@
+2023/03/06-11:31:07.925 52bc Creating DB C:/Users/burto/Documents/GitHub/Unreal-Grasslands/PatreonMountainsStarter 5.1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/06-11:31:07.943 52bc Reusing MANIFEST C:/Users/burto/Documents/GitHub/Unreal-Grasslands/PatreonMountainsStarter 5.1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-11:37:14.833 1c68 Level-0 table #5: started
+2023/03/06-11:37:14.861 1c68 Level-0 table #5: 7789 bytes OK
+2023/03/06-11:37:14.863 1c68 Delete type=0 #3
+2023/03/06-11:37:14.869 1c68 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
